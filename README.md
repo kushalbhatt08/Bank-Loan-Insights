@@ -1,7 +1,7 @@
 # Bank-Loan-Insights
 The Bank Loan Insights Dashboard in Power BI provides a comprehensive, interactive overview of key metrics related to loan performance, customer demographics, risk assessment, and approval trends. Designed for banking and financial institutions, the dashboard helps stakeholders quickly analyze and monitor loan portfolios, identify patterns, and make data-driven decisions.
 
-Key Features:
+# Key Features:
 
 Loan Approval Analysis: Visual breakdown of approved vs. rejected loans, approval rates by region, product type, and applicant profile.
 
@@ -15,4 +15,4 @@ Geographical Insights: Interactive maps showing regional loan distribution and p
 
 Time Trends: Historical trends in loan disbursements, repayment patterns, and customer behavior over time.
 
-This dashboard enables bank executives, risk managers, and loan officers to streamline operations, minimize risk, and improve customer targeting strategies by leveraging real-time, data-rich visualizations.
+# This dashboard enables bank executives, risk managers, and loan officers to streamline operations, minimize risk, and improve customer targeting strategies by leveraging real-time, data-rich visualizations.
